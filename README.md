@@ -2,6 +2,8 @@
 
 Let's see Miaow! on desktop.
 
+![Miaow](img/miaow-desktop.png?raw=true "Miaow!")
+
 ## Requirements
 
 * LLVM 14
